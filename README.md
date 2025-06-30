@@ -1,2 +1,3 @@
-# My MK APP Repo
-# 再テスト
+# mk-dev-cicd-sample
+
+## これはローカルとリモートをマージした後のREADMEです
