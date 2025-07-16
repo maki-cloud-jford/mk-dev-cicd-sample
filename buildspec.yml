@@ -9,8 +9,8 @@ phases:
       - IMAGE_TAG=latest
       - echo === PWD ===
       - pwd
-      - echo === LS ../app ===
-      - ls -al ../app
+      - echo === LS ===
+      - ls -al
   build:
     commands:
       - echo Build started on `date`
