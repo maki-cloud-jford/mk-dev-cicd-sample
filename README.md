@@ -11,3 +11,5 @@
 # 更新テスト　20250716
 
 # S3 codepipelineにputobject 追加
+
+# ECRトークン権限追加
